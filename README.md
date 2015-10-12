@@ -13,7 +13,7 @@ Adobe Illustrator用スクリプト。選択オブジェクトをiOS、Android�
 * MAC
     * /アプリケーション/Adobe Illustrator CC 2015/Presets/ja_JP/スクリプト/
 * Windows
-    * C:/Program Files/Adobe/Adobe Illustrator CS2/プリセット/スクリプト/
+    * C:¥Program Files¥Adobe¥Adobe Illustrator XX (64 Bit)¥Presets¥ja_JP¥スクリプト¥
 
   ![スクリプトの配置](img/img001.png)
 
